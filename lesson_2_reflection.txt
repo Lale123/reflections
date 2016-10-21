@@ -6,6 +6,9 @@
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+- intermediate stage to store changes that still have to be commited
+- not all files in working directory have to be tracked
+- comits can be done after significant changes
 
 
 
