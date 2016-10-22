@@ -41,3 +41,7 @@ Why do we represent it in the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+pros: 	- fast progress
+		- no need to review entire code
+
+cons: 	- errors could be introduced
