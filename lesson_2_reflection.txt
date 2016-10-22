@@ -14,13 +14,16 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
-
+- add changed files to the staging area and compare them to repository
+- add only one file at a time and commit before adding another
 
 
 What are some situations when branches would be helpful in keeping your history
 organized? 
 How would branches help?
-
+- when experimental versions are tested out
+- when different versions of the game have to be safed (e.g. different modes)
+- brances make it easy to work on several versions of a program
 
 
 How do the diagrams help you visualize the branch structure?
