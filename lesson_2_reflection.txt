@@ -33,10 +33,10 @@ How do the diagrams help you visualize the branch structure?
 
 
 What is the result of merging two branches together? 
-
-Why do we represent it in
-the diagram the way we do?
-
+Why do we represent it in the diagram the way we do?
+- changes of both branches get merged into one
+- new branch has both branches as parent
+- one branch label can be deleted
 
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
